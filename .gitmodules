@@ -1,0 +1,9 @@
+[submodule "aur/cocogitto-git"]
+	path = aur/cocogitto-git
+	url = ssh://aur@aur.archlinux.org/cocogitto-git.git
+[submodule "aur/cocogitto"]
+	path = aur/cocogitto
+	url = ssh://aur@aur.archlinux.org/cocogitto.git
+[submodule "aur/cocogitto-bin"]
+	path = aur/cocogitto-bin
+	url = ssh://aur@aur.archlinux.org/cocogitto-bin.git
